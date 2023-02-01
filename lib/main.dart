@@ -28,9 +28,9 @@ class MyApp extends StatelessWidget {
         Locale('ja', ''),
         Locale('en', ''),
       ],
-      title: 'DeepDrive',
+      title: 'Deepia',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const MyHomePage(title: 'DeepDrive'),
+      home: const MyHomePage(title: 'Deepia'),
     );
   }
 }
